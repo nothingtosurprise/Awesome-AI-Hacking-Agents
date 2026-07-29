@@ -238,6 +238,10 @@ https://github.com/gigioneggiando/argo
 
 https://github.com/capitalone/vulnhunter
 
+https://github.com/openai/codex-security
+
+
+
 
 ToolSafe https://github.com/MurrayTom/ToolSafe
 AgentFence
