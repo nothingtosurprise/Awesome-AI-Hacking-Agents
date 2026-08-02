@@ -240,6 +240,9 @@ https://github.com/capitalone/vulnhunter
 
 https://github.com/openai/codex-security
 
+https://github.com/openhackai/OpenHack
+
+
 
 
 
