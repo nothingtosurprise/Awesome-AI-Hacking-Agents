@@ -245,6 +245,8 @@ https://github.com/openhackai/OpenHack
 
 https://github.com/thatskriptkid/re-harness
 
+https://github.com/ivRodriguezCA/MobHunt
+
 
 ToolSafe https://github.com/MurrayTom/ToolSafe
 AgentFence
